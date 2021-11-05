@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @andhika18
 - 👀 I’m interested in Programming and Gaming
-- 🌱 I’m currently learning .NET and Flutter
+- 🥇 I’m well experienced in C# .Net ASP
+- 🌱 I’m currently learning ReactJS and Flutter
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
