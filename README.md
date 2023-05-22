@@ -7,3 +7,5 @@
 - 🥇 I’m well experienced in C# .Net ASP
 - 🌱 I’m currently learning ReactJS and Flutter
 - 📖 Currently learning at Google Cybersecurity Course
+ 
+[Professional Statement](https://github.com/andhika18/andhika18/blob/main/Cybersecurity/Professional%20Statement.docx)
